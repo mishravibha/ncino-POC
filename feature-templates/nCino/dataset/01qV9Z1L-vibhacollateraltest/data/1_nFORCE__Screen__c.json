@@ -1,0 +1,49 @@
+{
+  "name": "1_nFORCE__Screen__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LastActivityDate",
+    "LastViewedDate",
+    "LastReferencedDate",
+    "nFORCE__Disable_Print__c",
+    "nFORCE__Show_Link_To_Context_Object__c",
+    "nFORCE__lookupKey__c",
+    "AutorabitExtId__c",
+    "nPortal__Add_Multi_Record_Display_Icon__c",
+    "nPortal__Maximum_Number_of_Records__c",
+    "nPortal__Minimum_Number_of_Records__c",
+    "nPortal__OA_Review_Multiple_Record_Entry_Label__c"
+  ],
+  "records": {
+    "1": {
+      "AutorabitExtId__c": "",
+      "CreatedById": "0055f0000032WxDAAU",
+      "CreatedDate": "2021-09-23T15:46:49.000Z",
+      "Id": "a0U5f000000xfZVEAY",
+      "IsDeleted": "",
+      "LastActivityDate": "",
+      "LastModifiedById": "0055f0000032WxDAAU",
+      "LastModifiedDate": "2021-09-23T15:46:49.000Z",
+      "LastReferencedDate": "",
+      "LastViewedDate": "",
+      "Name": "Default Pledged Collateral Edit Screen",
+      "OwnerId": "0055f0000032WxDAAU",
+      "SystemModstamp": "",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42620766709577506",
+      "nPortal__Add_Multi_Record_Display_Icon__c": "",
+      "nPortal__Maximum_Number_of_Records__c": "",
+      "nPortal__Minimum_Number_of_Records__c": "",
+      "nPortal__OA_Review_Multiple_Record_Entry_Label__c": ""
+    }
+  }
+}
