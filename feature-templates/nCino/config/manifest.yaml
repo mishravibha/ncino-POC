@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01dIoM0D-vibhacollateraltest:
+          path: dataset/01dIoM0D-vibhacollateraltest
+          prefix: Accenture
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2021-10-06 17:49:14'
